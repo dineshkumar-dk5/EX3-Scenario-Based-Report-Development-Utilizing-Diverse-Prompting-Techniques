@@ -33,7 +33,8 @@ To design an AI-powered chatbot that assists customers in resolving issues relat
 🖼️ **Related Images:**
 
 * Infographic of **nutritional breakdown**
-* Example **restaurant-style food chart**
+* <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/588bf7fa-298b-4423-bfde-b4c17c14a1f9" />
+
 
 ---
 
